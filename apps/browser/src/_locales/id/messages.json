@@ -1718,7 +1718,7 @@
     "message": "Lingkungan Penyedia Personal"
   },
   "selfHostedBaseUrlHint": {
-    "message": "Tentukan URL dasar dari pemasangan Bitwarden di server Anda. Contoh: https://bitwarden.company.com"
+    "message": "Tentukan URL dasar dari pemasangan Bitwarden di server Anda. Contoh: bitwarden.company.com"
   },
   "selfHostedCustomEnvHeader": {
     "message": "Untuk pengaturan tingkat lanjut, Anda dapat menentukan URL dasar dari setiap layanan secara terpisah."

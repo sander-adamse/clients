@@ -1718,7 +1718,7 @@
     "message": "Prostredie s vlastným hostingom"
   },
   "selfHostedBaseUrlHint": {
-    "message": "Zadajte základnú URL adresu lokálne hosťovanej inštalácie Bitwarden. Napríklad: https://bitwarden.company.com"
+    "message": "Zadajte základnú URL adresu lokálne hosťovanej inštalácie Bitwarden. Napríklad: bitwarden.company.com"
   },
   "selfHostedCustomEnvHeader": {
     "message": "Pre rozšírenú konfiguráciu môžete zadať základnú adresu URL každej služby nezávisle."

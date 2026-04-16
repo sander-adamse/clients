@@ -1718,7 +1718,7 @@
     "message": "محیط خود میزبان"
   },
   "selfHostedBaseUrlHint": {
-    "message": "نشانی اینترنتی پایه نصب Bitwarden خود را که به‌صورت داخلی میزبانی شده مشخص کنید.\nمثال: https://bitwarden.company.com"
+    "message": "نشانی اینترنتی پایه نصب Bitwarden خود را که به‌صورت داخلی میزبانی شده مشخص کنید.\nمثال: bitwarden.company.com"
   },
   "selfHostedCustomEnvHeader": {
     "message": "برای پیکربندی پیشرفته، می‌توانید نشانی اینترنتی پایه هر سرویس را به‌صورت مستقل مشخص کنید."

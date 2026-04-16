@@ -1718,7 +1718,7 @@
     "message": "Ambiente auto-hospedado"
   },
   "selfHostedBaseUrlHint": {
-    "message": "Especifique o URL de base da sua instalação Bitwarden hospedada no local. Exemplo: https://bitwarden.company.com"
+    "message": "Especifique o URL de base da sua instalação Bitwarden hospedada no local. Exemplo: bitwarden.company.com"
   },
   "selfHostedCustomEnvHeader": {
     "message": "Para uma configuração avançada, pode especificar o URL de base de cada serviço de forma independente."

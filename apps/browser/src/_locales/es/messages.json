@@ -1718,7 +1718,7 @@
     "message": "Entorno de alojamiento propio"
   },
   "selfHostedBaseUrlHint": {
-    "message": "Especifica la dirección URL base de la instalación de Bitwarden alojada localmente. Ejemplo: https://bitwarden.company.com"
+    "message": "Especifica la dirección URL base de la instalación de Bitwarden alojada localmente. Ejemplo: bitwarden.company.com"
   },
   "selfHostedCustomEnvHeader": {
     "message": "Para una configuración avanzada, puedes especificar la dirección URL base de cada servicio de forma independiente."

@@ -1718,7 +1718,7 @@
     "message": "Saját üzemeltetésű környezet"
   },
   "selfHostedBaseUrlHint": {
-    "message": "Adjuk meg a helyileg tárolt Bitwarden telepítés alap webcímét. Példa: https://bitwarden.company.com"
+    "message": "Adjuk meg a helyileg tárolt Bitwarden telepítés alap webcímét. Példa: bitwarden.company.com"
   },
   "selfHostedCustomEnvHeader": {
     "message": "Speciális konfigurációhoz külön-külön megadhatjuk az egyes szolgáltatások alap webcímét."

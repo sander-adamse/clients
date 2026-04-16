@@ -1718,7 +1718,7 @@
     "message": "สภาพแวดล้อมโฮสต์เอง"
   },
   "selfHostedBaseUrlHint": {
-    "message": "ระบุ URL เซิร์ฟเวอร์ของการติดตั้ง Bitwarden ที่คุณโฮสต์เอง ตัวอย่าง: https://bitwarden.company.com"
+    "message": "ระบุ URL เซิร์ฟเวอร์ของการติดตั้ง Bitwarden ที่คุณโฮสต์เอง ตัวอย่าง: bitwarden.company.com"
   },
   "selfHostedCustomEnvHeader": {
     "message": "สำหรับการกำหนดค่าขั้นสูง คุณสามารถระบุ URL ของแต่ละบริการได้อย่างอิสระ"

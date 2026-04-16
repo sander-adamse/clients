@@ -1718,7 +1718,7 @@
     "message": "セルフホスティング環境"
   },
   "selfHostedBaseUrlHint": {
-    "message": "オンプレミスホストした Bitwarden のベース URL を指定してください。例: https://bitwarden.company.com"
+    "message": "オンプレミスホストした Bitwarden のベース URL を指定してください。例: bitwarden.company.com"
   },
   "selfHostedCustomEnvHeader": {
     "message": "高度な設定では、各サービスのベース URL を個別に指定できます。"

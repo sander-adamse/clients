@@ -1718,7 +1718,7 @@
     "message": "自行部署環境"
   },
   "selfHostedBaseUrlHint": {
-    "message": "請指定您自行部署的 Bitwarden 安裝環境的基礎 URL。例如：https://bitwarden.company.com"
+    "message": "請指定您自行部署的 Bitwarden 安裝環境的基礎 URL。例如：bitwarden.company.com"
   },
   "selfHostedCustomEnvHeader": {
     "message": "在進階設定中，您可獨立指定每項服務的基礎 URL。"

@@ -1718,7 +1718,7 @@
     "message": "Entorn d'allotjament propi"
   },
   "selfHostedBaseUrlHint": {
-    "message": "Specify the base URL of your on-premises hosted Bitwarden installation. Example: https://bitwarden.company.com"
+    "message": "Specify the base URL of your on-premises hosted Bitwarden installation. Example: bitwarden.company.com"
   },
   "selfHostedCustomEnvHeader": {
     "message": "Per a la configuració avançada, podeu especificar l'URL base de cada servei de manera independent."

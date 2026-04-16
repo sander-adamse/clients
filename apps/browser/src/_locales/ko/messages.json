@@ -1718,7 +1718,7 @@
     "message": "자체 호스팅 환경"
   },
   "selfHostedBaseUrlHint": {
-    "message": "온-프레미스 Bitwarden이 호스팅되고 있는 서버의 기본 URL을 지정하세요. 예: https://bitwarden.company.com"
+    "message": "온-프레미스 Bitwarden이 호스팅되고 있는 서버의 기본 URL을 지정하세요. 예: bitwarden.company.com"
   },
   "selfHostedCustomEnvHeader": {
     "message": "고급 구성의 경우 각 서비스의 기본 URL을 독립적으로 지정할 수 있습니다."

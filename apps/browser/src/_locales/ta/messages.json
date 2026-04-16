@@ -1718,7 +1718,7 @@
     "message": "சுய-ஹோஸ்ட் செய்யப்பட்ட சூழல்"
   },
   "selfHostedBaseUrlHint": {
-    "message": "உங்கள் ஆன்-ப்ரிமைஸ் ஹோஸ்ட் செய்யப்பட்ட Bitwarden இன்ஸ்டாலேஷனின் பேஸ் URL-ஐ குறிப்பிடவும். உதாரணம்: https://bitwarden.company.com"
+    "message": "உங்கள் ஆன்-ப்ரிமைஸ் ஹோஸ்ட் செய்யப்பட்ட Bitwarden இன்ஸ்டாலேஷனின் பேஸ் URL-ஐ குறிப்பிடவும். உதாரணம்: bitwarden.company.com"
   },
   "selfHostedCustomEnvHeader": {
     "message": "மேம்பட்ட கட்டமைப்பிற்காக, ஒவ்வொரு சேவையின் பேஸ் URL-ஐயும் தனித்தனியாக நீங்கள் குறிப்பிடலாம்."

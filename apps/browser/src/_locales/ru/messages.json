@@ -1718,7 +1718,7 @@
     "message": "Окружение пользовательского хостинга"
   },
   "selfHostedBaseUrlHint": {
-    "message": "Укажите базовый URL вашего локального хостинга Bitwarden. Пример: https://bitwarden.company.com"
+    "message": "Укажите базовый URL вашего локального хостинга Bitwarden. Пример: bitwarden.company.com"
   },
   "selfHostedCustomEnvHeader": {
     "message": "Для продвинутой конфигурации можно указать базовый URL каждой службы отдельно."

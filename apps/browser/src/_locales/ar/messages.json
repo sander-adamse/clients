@@ -1718,7 +1718,7 @@
     "message": "البيئة المستضافة ذاتيا"
   },
   "selfHostedBaseUrlHint": {
-    "message": "حدد عنوان URL الأساسي لمبانيك التي استضافت تثبيت بتواردن على سبيل المثال: https://bitwarden.company.com"
+    "message": "حدد عنوان URL الأساسي لمبانيك التي استضافت تثبيت بتواردن على سبيل المثال: bitwarden.company.com"
   },
   "selfHostedCustomEnvHeader": {
     "message": "للتكوين المتقدم، يمكنك تحديد عنوان URL الأساسي لكل خدمة بشكل مستقل."

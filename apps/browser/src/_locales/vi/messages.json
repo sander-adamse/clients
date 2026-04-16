@@ -1718,7 +1718,7 @@
     "message": "Môi trường tự lưu trữ"
   },
   "selfHostedBaseUrlHint": {
-    "message": "Nhập URL cơ sở của cài đặt Bitwarden được lưu trữ trên máy chủ nội bộ của bạn. Ví dụ: https://bitwarden.company.com"
+    "message": "Nhập URL cơ sở của cài đặt Bitwarden được lưu trữ trên máy chủ nội bộ của bạn. Ví dụ: bitwarden.company.com"
   },
   "selfHostedCustomEnvHeader": {
     "message": "Đối với cấu hình nâng cao. Bạn có thể chỉ định địa chỉ cơ sở của mỗi dịch vụ một cách độc lập."
