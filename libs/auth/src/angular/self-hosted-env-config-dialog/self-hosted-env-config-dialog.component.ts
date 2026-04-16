@@ -73,6 +73,13 @@ function onlyHttpsValidator(): ValidatorFn {
   };
 }
 
+function normalizeUrl(url: string): string {
+  if (url && !url.startsWith("http://") && !url.startsWith("https://")) {
+    return "https://" + url;
+  }
+  return url;
+}
+
 /**
  * Dialog for configuring self-hosted environment settings.
  */
@@ -187,6 +194,15 @@ export class SelfHostedEnvConfigDialogComponent implements OnInit, OnDestroy {
   submit = async () => {
     this.formGroup.markAllAsTouched();
     this.showErrorSummary = false;
+
+    ["baseUrl", "webVaultUrl", "apiUrl", "identityUrl", "iconsUrl", "notificationsUrl"].forEach(
+      (field) => {
+        const control = this.formGroup.get(field);
+        if (control?.value) {
+          control.setValue(normalizeUrl(control.value), { emitEvent: false });
+        }
+      },
+    );
 
     if (this.formGroup.invalid) {
       this.showErrorSummary = Boolean(this.formGroup.errors?.["atLeastOneUrlIsRequired"]);
