@@ -61,7 +61,7 @@ function onlyHttpsValidator(): ValidatorFn {
   return (control: AbstractControl): ValidationErrors | null => {
     const url = control.value as string;
 
-    if (url && !url.startsWith("https://") && !platformUtilsService.isDev()) {
+    if (url && url.startsWith("http://") && !platformUtilsService.isDev()) {
       return {
         onlyHttpsAllowed: {
           message: i18nService.t("selfHostedEnvMustUseHttps"),
